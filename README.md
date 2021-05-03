@@ -1,8 +1,6 @@
-# plant_shop_ui
+# Plants Shop UI
 
-A new Flutter project.
-
-## Getting Started
+<img src="https://user-images.githubusercontent.com/45583824/116915502-4e04fc00-ac76-11eb-8305-4f04493f6cea.PNG" width="250" height="500"> <img src="https://user-images.githubusercontent.com/45583824/116915504-4f362900-ac76-11eb-87a7-488e517fdac6.PNG" width="250" height="500"> 
 
 This project is a starting point for a Flutter application.
 
